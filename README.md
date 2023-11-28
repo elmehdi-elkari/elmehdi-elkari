@@ -35,7 +35,9 @@
       <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
-- Machine Learning and Deep Learning: ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+- Machine Learning and Deep Learning:
+      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
 ### Distributed Systems (DS)
 
