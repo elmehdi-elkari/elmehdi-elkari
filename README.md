@@ -19,102 +19,32 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
  👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.-->
 
+<hr>
 
 ## Connect with Me :
-<hr>
+
 <a href="https://www.linkedin.com/in/mehdi-kari/" target="_blank"><img src="https://img.shields.io/badge/-El mehdi%20El kari-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/elmehdielkari" target="_blank"><img src="https://img.shields.io/badge/-El mehdi%20El kari-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
+<hr>
+
 ## 🛠 &nbsp;Tech Stack
-<hr>
 
-<div class="container">
-  <h2>Technical skills</h2>
-  <div class="row">
-    <div class="col-md-6">
-      <h3>Artificial intelligence</h3>
-      <ul class="list-unstyled">
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/python.svg" alt="Python logo">
-          Python (primary language)
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/numpy.svg" alt="NumPy logo">
-          NumPy
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/pandas.svg" alt="Pandas logo">
-          Pandas
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/matplotlib.svg" alt="Matplotlib logo">
-          Matplotlib
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/seaborn.svg" alt="Seaborn logo">
-          Seaborn
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/scikit-learn.svg" alt="Scikit-learn logo">
-          Scikit-learn
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/keras.svg" alt="Keras logo">
-          Keras
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/tensorflow.svg" alt="TensorFlow logo">
-          TensorFlow
-        </li>
-      </ul>
-    </div>
-    <div class="col-md-6">
-      <h3>Distributed systems</h3>
-      <ul class="list-unstyled">
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/java.svg" alt="Java logo">
-          Java (primary language)
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/spring-boot.svg" alt="Spring Boot logo">
-          Spring Boot
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/spring-data.svg" alt="Spring Data logo">
-          Spring Data
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/spring-cloud.svg" alt="Spring Cloud logo">
-          Spring Cloud
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/spring-security.svg" alt="Spring Security logo">
-          Spring Security
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/soap.svg" alt="SOAP logo">
-          SOAP
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/rest.svg" alt="REST logo">
-          REST
-        </li>
-        <li>
-          <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/graphql.svg" alt="GraphQL logo">
-          GraphQL
-        </li>
-      </ul>
-    </div>
+### Artificial Intelligence
+
+- Language: ![Python](https://img.icons8.com/color/48/000000/python.png)
+- Data Preprocessing and Analysis: ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+- Machine Learning and Deep Learning: ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+
+### Distributed Systems (DS)
+
+- Language: ![Java](https://img.icons8.com/color/48/000000/java.png)
+- Microservice Development with Spring Framework: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Spring Data](https://img.icons8.com/color/48/000000/spring-data.png) ![Spring Cloud](https://img.icons8.com/color/48/000000/spring-cloud.png) ![Spring Security](https://img.icons8.com/color/48/000000/spring-security.png)
+- Web Services: ![SOAP](https://img.icons8.com/color/48/000000/soap.png) ![REST](https://img.icons8.com/color/48/000000/rest-api.png) ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![gRPC](https://img.icons8.com/color/48/000000/grpc.png)
+- Big Data: ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) ![Spark](https://img.icons8.com/color/48/000000/spark.png) ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
 
 
 <hr>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
