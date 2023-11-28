@@ -55,24 +55,24 @@
 
 ### Distributed Systems (DS)
 
-- Language: <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+- Language: <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/java.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
 - Microservice Development with Spring Framework:
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/spring.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/> 
       <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
       
 - Web Services:
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       
 - Big Data:
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/spark.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/kafka.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
 <hr>
 
