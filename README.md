@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 -->
 
-<div style="display: inline_block">
+<!--<div style="display: inline_block">-->
 ## Technologies
 
 ### Artificial Intelligence (AI)
@@ -54,7 +54,7 @@
 - Web Services: ![SOAP](https://img.icons8.com/ios-filled/50/000000/soap.png) ![REST](https://img.icons8.com/color/48/000000/rest-api.png) ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![gRPC](https://img.icons8.com/color/48/000000/grpc.png)
 - Big Data: ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) ![Spark](https://img.icons8.com/color/48/000000/spark.png) ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
 
-</div>
+<!--</div>-->
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
