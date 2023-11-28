@@ -1,4 +1,10 @@
 
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=elmehdi-elkari&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=elmehdi-elkari&style=for-the-badge">
+</a>
+</p>
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -11,9 +17,7 @@
 </p> 
 <hr>
 
-<a href="https://komarev.com/ghpvc/?username=elmehdi-elkari&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=elmehdi-elkari&style=for-the-badge">
-</a>
+
 
 ## About Me
 
