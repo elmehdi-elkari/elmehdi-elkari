@@ -30,8 +30,10 @@
 ### Artificial Intelligence
 
 - Language: ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Data Preprocessing and Analysis: ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![Matplotlib logo](matplotlib_logo.svg)](https://matplotlib.org/) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+- Data Preprocessing and Analysis: ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png)  ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
 - Machine Learning and Deep Learning: ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+
+<img src="matplotlib_logo.svg" alt="Matplotlib logo">
 
 ### Distributed Systems (DS)
 
