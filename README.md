@@ -13,11 +13,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A0F7&random=false&width=435&lines=I'm+an+AI+and+DS+Student" alt="Typing SVG" /></a>
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+<!---- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+ 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.-->
 
 
 ### Connect with Me :
