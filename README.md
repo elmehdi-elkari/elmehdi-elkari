@@ -37,6 +37,46 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 -->
+
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="40" width="50" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+    </a>
+   
+  </p>
+</div>
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
