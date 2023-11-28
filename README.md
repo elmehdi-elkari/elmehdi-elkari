@@ -39,7 +39,7 @@
 ### Distributed Systems (DS)
 
 - Language: <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java original.svg" alt="java" width="40" height="40"/></a>
-- Microservice Development with Spring Framework: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Spring Data](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FSpringData&psig=AOvVaw3SHD9Kyl27DuHwyldl_li6&ust=1701270135230000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCPvab75oIDFQAAAAAdAAAAABAD) ![Spring Cloud](https://img.icons8.com/color/48/000000/spring-cloud.png) ![Spring Security](https://img.icons8.com/color/48/000000/spring-security.png)
+- Microservice Development with Spring Framework: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Spring Data](https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png) ![Spring Cloud](https://img.icons8.com/color/48/000000/spring-cloud.png) ![Spring Security](https://img.icons8.com/color/48/000000/spring-security.png)
 - Web Services: ![SOAP](https://img.icons8.com/color/48/000000/soap.png) ![REST](https://img.icons8.com/color/48/000000/rest-api.png) ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![gRPC](https://img.icons8.com/color/48/000000/grpc.png)
 - Big Data: ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) ![Spark](https://img.icons8.com/color/48/000000/spark.png) ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
 
