@@ -6,21 +6,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A0F7&random=false&width=435&lines=I'm+an+AI+and+DS+Student" alt="Typing SVG" /></a>
 </p> 
+<hr>
+## About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A0F7&random=false&width=435&lines=I'm+an+AI+and+DS+Student" alt="Typing SVG" /></a>
-
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 🎓 I am a Master's student in Artificial Intelligence and Distributed Systems.
+- 💡 Interested in Mathematics and Artificial Intelligence.
+- 🔍 Passionate about: Problem-solving and programming.
+- 👨‍💻 Back-end Developer.
 
 <hr>
-
 ## Connect with Me :
 
 <a href="https://www.linkedin.com/in/mehdi-kari/" target="_blank"><img src="https://img.shields.io/badge/-El mehdi%20El kari-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -32,8 +29,12 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 ### Artificial Intelligence
 
-- Language: ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Data Preprocessing and Analysis: ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+- Language: <img title="Python" alt="Python" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+- Data Preprocessing and Analysis:
+      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="" width="70" height="40" style="vertical-align:down; margin:4px"/>
+
 - Machine Learning and Deep Learning: ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 
 ### Distributed Systems (DS)
