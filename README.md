@@ -38,7 +38,7 @@
 
 ### Distributed Systems (DS)
 
-- Language: ![Java](https://img.icons8.com/color/48/000000/java.png)
+- Language: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 - Microservice Development with Spring Framework: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Spring Data](https://img.icons8.com/color/48/000000/spring-data.png) ![Spring Cloud](https://img.icons8.com/color/48/000000/spring-cloud.png) ![Spring Security](https://img.icons8.com/color/48/000000/spring-security.png)
 - Web Services: ![SOAP](https://img.icons8.com/color/48/000000/soap.png) ![REST](https://img.icons8.com/color/48/000000/rest-api.png) ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![gRPC](https://img.icons8.com/color/48/000000/grpc.png)
 - Big Data: ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) ![Spark](https://img.icons8.com/color/48/000000/spark.png) ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
