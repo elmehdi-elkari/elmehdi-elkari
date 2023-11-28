@@ -103,7 +103,8 @@
           <img src="https://cdnjs.cloudflare.com/ajax/libs/icons8/1.5.0/svg/graphql.svg" alt="GraphQL logo">
           GraphQL
         </li>
-        <
+      </ul>
+    </div>
 
 
 <hr>
