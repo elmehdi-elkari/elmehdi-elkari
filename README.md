@@ -39,42 +39,21 @@
 -->
 
 <div style="display: inline_block">
-  <p align="center">
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="40" width="50" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-    </a>
-   
-  </p>
+## Technologies
+
+### Artificial Intelligence (AI)
+
+- Language: ![Python](https://img.icons8.com/color/48/000000/python.png)
+- Data Preprocessing and Analysis: ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+- Machine Learning and Deep Learning: ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+
+### Distributed Systems (DS)
+
+- Language: ![Java](https://img.icons8.com/color/48/000000/java.png)
+- Microservice Development with Spring Framework: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Spring Data](https://img.icons8.com/color/48/000000/spring-data.png) ![Spring Cloud](https://img.icons8.com/color/48/000000/spring-cloud.png) ![Spring Security](https://img.icons8.com/color/48/000000/spring-security.png)
+- Web Services: ![SOAP](https://img.icons8.com/ios-filled/50/000000/soap.png) ![REST](https://img.icons8.com/color/48/000000/rest-api.png) ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![gRPC](https://img.icons8.com/color/48/000000/grpc.png)
+- Big Data: ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) ![Spark](https://img.icons8.com/color/48/000000/spark.png) ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
+
 </div>
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
