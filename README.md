@@ -36,7 +36,7 @@
 
 <hr>
 
-## 🛠 &nbsp;Tech Stack
+## Skills -> 🛠 &nbsp;Tech Stack
 
 ### Artificial Intelligence
 
