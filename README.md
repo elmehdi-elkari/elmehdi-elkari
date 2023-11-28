@@ -65,7 +65,7 @@
       
 - Web Services:
       <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/rest-api.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/graphql.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/0b005537c8ecc0fd2d7405624d78cb397a1c625e/assets/DS/graphql.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/grpc.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <!-- <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/DS/.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>-->
       
