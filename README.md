@@ -43,7 +43,7 @@
 - Language: <img title="Python" alt="Python" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
 - Data Preprocessing and Analysis:
-      <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/numpy.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+      <a href="https://github.com/elmehdi-elkari/python_4DS_Masterclass/tree/main/NumPy"><img title="NumPy" alt="NumPy" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/numpy.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
       <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/pandas.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/Matplotlib.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
       <img title="" alt="" src="https://github.com/elmehdi-elkari/elmehdi-elkari/blob/63577c77d4693dd90c69d455e9d1d9e99a447b1e/assets/IA/seaborn.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
